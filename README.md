@@ -19,23 +19,42 @@
 
 ---
 
-### 🚀 Tech Stack
+## 💻 Languages and Tools
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+<!--   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+ -->
+  <!-- Web/Frameworks -->
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/?size=96&id=yUdJlcKanVbh&format=png" alt="Next.js" width="48" height="48"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite.js" width="48" height="48"/>
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  <!-- Backend & Tools -->
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
 
-**Others**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <!-- UI/UX & Editors -->
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
+
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+</p>
+
 
 ---
 
@@ -57,24 +76,25 @@
 - [🎯 100 Days of Python](https://github.com/razaOnGit/100-days-of-code-youtube)
 
 ---
-
 <h3>🤝 Connect with Me</h3>
-
 <p align="left">
-  <a href="mailto:kmdraza47@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mdraza7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="https://portfolio-mdraza.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
   <a href="https://x.com/MdRaza_Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdraza7/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
 
+  <a href="mailto:kmdraza47@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+ <a href="https://portfolio-mdraza.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+ <a href="https://leetcode.com/u/the_razaOnLeetcode/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+       alt="LeetCode" width="40" height="40"/>
+</a>
 </p>
 
 
