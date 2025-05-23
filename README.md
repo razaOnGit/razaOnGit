@@ -21,7 +21,7 @@
   - 🔹 Web_Devlopment projects
   - 🔹 DSA
   - 🔹 Something Cool
-- 🌱 I’m currently learning: **DevOps, Linux/Shell Scripting, Docker,Jenkis**
+- 🌱 I’m currently learning: **DevOps, Linux/Shell Scripting, Docker,Jenkins**
 - 💬 Ask me about: **JavaScript, MERN Stack, Python, APIs**
 - ⚡ Fun fact: I love making intelligent assistants like **Jarvis AI Model**
 - 📫 How to reach me: kmdraza47@gmail.com
