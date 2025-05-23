@@ -7,12 +7,12 @@
 </p>
 
 ---
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-razaOnGit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=razaOnGit&theme=tokyonight&no-frame=true&margin-w=10&title=Commits,Repositories,Followers,PullRequest,Issues,Stars,Reviews,Experience" />
+  <img src="https://github-profile-trophy.vercel.app/?username=razaOnGit&theme=monokai&no-frame=true&margin-w=10&title=Commits,Repositories,Followers,PullRequest,Issues,Stars,Reviews,Experience" />
 </div>
 
 ### 👨‍💻 About Me
