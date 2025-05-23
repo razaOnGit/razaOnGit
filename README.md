@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Raza Khan</h1>
 <h3 align="center"> A passionate Software Developer from India</h3>
-<h2 align="left">B.Tech | Coding Enthusiast | DSA | Web Development</h2>
+<h3 align="left">B.Tech | Coding Enthusiast | DSA | Web Development</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaOnGit&theme=github-dark&hide_border=true" alt="GitHub Streak" />
@@ -17,11 +17,11 @@
 - 🌱 I’m currently learning: **DevOps, Linux/Shell Scripting, Docker,Jenkis**
 - 💬 Ask me about: **JavaScript, MERN Stack, Python, APIs**
 - ⚡ Fun fact: I love making intelligent assistants like **Jarvis AI Model**
-- 📫 How to reach me: [(kmdraza47@gmail.com)
+- 📫 How to reach me: kmdraza47@gmail.com
 
 ---
 
-## 💻 Languages and Tools
+### 💻 Languages and Tools
 
 <p align="left">
   <!-- Programming Languages -->
@@ -100,7 +100,7 @@
 </p>
 
 
----
+--
 
 <p align="center">
   🛠️ Built with passion by <strong>Md Raza Khan</strong>
