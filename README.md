@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=razaOnGit&theme=tokyonight&no-frame=true&title=Commits,Repositories,Followers,PullRequest,Issues,Experience&margin-w=10&rank=A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=razaOnGit&theme=tokyonight&no-frame=true&margin-w=10&title=Commits,Repositories,Followers,PullRequest,Issues,Stars,Reviews,Experience" />
 </div>
 
 ### 👨‍💻 About Me
