@@ -7,14 +7,14 @@
 </p>
 
 ---
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=your-razaOnGit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=razaOnGit&theme=tokyonight&no-frame=true&title=Commits,Repositories,Followers,PullRequest,Issues,Experience&margin-w=10&rank=A,B,C" />
 </div>
----
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:
