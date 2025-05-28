@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Raza Khan</h1>
 <h3 align="center"> A passionate Software Developer from India</h3>
 <h3 align="left">B.Tech | Coding Enthusiast | DSA | Web Development</h3>
-
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaOnGit&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
